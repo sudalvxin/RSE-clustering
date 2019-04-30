@@ -1,0 +1,1 @@
+you can run: 'main_test_RSE.m' to obtain the clustering results of all test data. 
